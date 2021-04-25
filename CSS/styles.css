@@ -300,3 +300,15 @@ nav{
           margin-right: 10%; 
         }
       }
+
+      /*footer*/
+    footer{
+        text-align: center;
+        padding-top: 30px;
+        font-family: 'Delius Swash Caps', cursive;
+        background-color: goldenrod;
+      }
+      footer p{
+        margin-top: 10px;
+      }
+  
