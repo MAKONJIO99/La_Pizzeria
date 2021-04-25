@@ -140,3 +140,21 @@ nav{
       left: 0;
     }
   }
+
+  /*landing page*/
+.home-area{
+    background-image: url("../images/lynda-hinton-77RJFb0IXnQ-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    padding-top: 20%;
+    color: white;
+     text-align: center;
+     font-family: cursive;
+  }
+  .home-area p {
+    text-align: center;
+    padding-top: 12%;
+  }
