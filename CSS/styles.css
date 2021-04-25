@@ -14,3 +14,20 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/*nav*/
+nav{
+    background: goldenrod;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      flex-wrap: wrap;
+      z-index: 2;
+      padding-top: 5%;
+      
+  }
+  
