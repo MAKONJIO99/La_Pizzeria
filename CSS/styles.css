@@ -63,3 +63,20 @@ nav{
     font-family: 'Poppins', sans-serif;
     z-index: 2;
   }
+
+  a.active,a:hover{/*hover*/
+    background: red;
+    transition: .5s;
+  }
+  .checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+  }
+  #check{
+    display: none;
+  }
