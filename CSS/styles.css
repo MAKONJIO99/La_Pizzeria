@@ -30,6 +30,13 @@ nav{
       padding-top: 5%;
       
   }
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 59%;
+  } 
   
 
 #icon1{
@@ -63,6 +70,8 @@ nav{
     font-family: 'Poppins', sans-serif;
     z-index: 2;
   }
+
+ 
 
   a.active,a:hover{/*hover*/
     background: red;
@@ -307,8 +316,10 @@ nav{
         padding-top: 30px;
         font-family: 'Delius Swash Caps', cursive;
         background-color: goldenrod;
+       
+        
       }
       footer p{
         margin-top: 10px;
       }
-  
+      
